@@ -227,3 +227,5 @@ data/
 mlruns/
 mlflow.db
 mlartifacts/
+# Secrets - never commit
+.env
