@@ -229,3 +229,5 @@ mlflow.db
 mlartifacts/
 # Secrets - never commit
 .env
+# macOS
+.DS_Store
